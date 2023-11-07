@@ -2,11 +2,11 @@
 description: 計算機通過唯一識別TCP/IP地址進行通訊
 ---
 
-# TCP/IP地址通訊協議
+# TCP/IP通訊協議
 
-TCP/IP提供了點對點連結的機制，將資料應該如何封裝、定址、傳輸、路由以及在目的地如何接收，都加以標準化。
+[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP%E5%8D%8F%E8%AE%AE%E6%97%8F)提供了點對點連結的機制，將資料應該如何封裝、定址、傳輸、路由以及在目的地如何接收，都加以標準化。
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**IP地址**](https://en.wikipedia.org/wiki/IP\_address)
 
@@ -26,7 +26,7 @@ IP位址空間無論是IPv4和IPv6，都是由中心化的[網路號碼分配局
 
 由於互聯網結構複雜，兩台電腦之間如何發現彼此，尋找一個合適的最佳路徑。[路由器](https://zh.wikipedia.org/wiki/%E8%B7%AF%E7%94%B1%E5%99%A8)是決定如何把一個[IP數據包](https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E5%B0%81%E5%8C%85)轉送出去，在互聯網上相互連結的關鍵設施。 IP包可以途徑多個路由，但不保證能到達，也不保證順序到達。
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **虛擬隧道概念**
 

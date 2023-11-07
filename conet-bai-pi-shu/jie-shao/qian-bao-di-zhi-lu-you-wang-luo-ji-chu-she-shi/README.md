@@ -10,7 +10,7 @@ description: 互聯網層隱私解決方案
 
 [**OSI模型**](https://zh.wikipedia.org/zh-hant/OSI%E6%A8%A1%E5%9E%8B)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 通信系統中的數據流劃分為七個層，從分布式應用程序數據的最高層表示，到跨通信媒介傳輸數據的物理實現。物理層指所有關鍵硬件基礎設施。數據鏈路層開始往上都是軟件範籌，每個中間層為其上一層提供功能，其自身功能則由其下一層提供。功能的類別通過標準的通信協議在軟件中實現。
 

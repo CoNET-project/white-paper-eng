@@ -21,3 +21,7 @@
       * [Merkel tree](doc/conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/merkel-tree.md)
       * [Burning Credentials Generates](doc/conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/burning-credentials-generates.md)
       * [Minting operation UTXO](doc/conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/minting-operation-utxo.md)
+
+## Chinese version
+
+* [CONET白皮書](chinese-version/conet-bai-pi-shu.md)

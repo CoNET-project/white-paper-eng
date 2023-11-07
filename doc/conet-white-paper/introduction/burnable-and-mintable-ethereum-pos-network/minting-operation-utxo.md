@@ -11,7 +11,7 @@ It performs a UTXO by hashing one/two input note and creating two new output not
 3. Owner: The wallet specified by the additional.
 4. Destination: Specified by owner.
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 **Validators vote to validate note**
 

@@ -10,7 +10,7 @@ CONET proxy is a commercial application based on the decentralized zero-trust, p
 
 Proxy service is one of the commonly used applications on the Internet. It can help customers hide their real IP addresses and let the proxy server access Internet websites on their behalf as a way to gain privacy. Many applications natively support the use of proxy servers, such as Firefox, Telegram, Game applications, etc. The traditional proxy server is remote, and customers access the proxy through the Internet.
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 **Traditional proxy service structure**
 
@@ -29,7 +29,7 @@ CONET splits the proxy server into two parts.
 
 **Fragmented Traffic**
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 When opens the Google homepage, you can see that the entire homepage is composed of 42 different types of files. The CONET proxy service can use 42 different nodes in the CONET network to process these 42 different requests at the same time, proxy the client to make Google requests.
 

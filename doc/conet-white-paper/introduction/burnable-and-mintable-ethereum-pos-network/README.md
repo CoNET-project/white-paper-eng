@@ -10,4 +10,4 @@ For users who have entered the Web3 community from Web2, privacy may be the real
 
 CONET attempts to build an Ethereum PoS network with natural privacy protection Users burn the tokens they own, and one day in the future, the burned tokens will be re-cast and put into a new wallet as a CONET Ethereum PoS network privacy solution.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>

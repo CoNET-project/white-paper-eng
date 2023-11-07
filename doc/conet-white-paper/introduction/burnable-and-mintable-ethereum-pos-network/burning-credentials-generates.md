@@ -10,7 +10,7 @@ After users transfer tokens to the designated burning address, then can create b
 
 **Burn/Mint Verify Credentials**
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 **Validators vote to validate note**
 

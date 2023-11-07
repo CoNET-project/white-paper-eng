@@ -36,3 +36,5 @@
       * [鑄造操作UTXO](conet-bai-pi-shu/jie-shao/ke-ran-shao-he-ke-zai-zhu-zao-yi-tai-fang-2-de-pos-wang-luo/zhu-zao-cao-zuo-utxo.md)
       * [憑據的加密和ZK驗證](conet-bai-pi-shu/jie-shao/ke-ran-shao-he-ke-zai-zhu-zao-yi-tai-fang-2-de-pos-wang-luo/ping-ju-de-jia-mi-he-zk-yan-zheng.md)
       * [應用場景](conet-bai-pi-shu/jie-shao/ke-ran-shao-he-ke-zai-zhu-zao-yi-tai-fang-2-de-pos-wang-luo/ying-yong-chang-jing.md)
+* [CONET ホワイトペーパー](conet-howaitopp/README.md)
+  * [導入](conet-howaitopp/dao-ru.md)

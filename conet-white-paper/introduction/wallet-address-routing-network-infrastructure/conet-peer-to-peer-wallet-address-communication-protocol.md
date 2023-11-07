@@ -8,7 +8,7 @@ description: >-
 
 The CONET wallet address protocol establishes a point-to-point communication mechanism, define how data should be encapsulated, addressed, transmitted, routed, and received at the destination.
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Asymmetric Cryptography**
 
@@ -43,7 +43,7 @@ Anyone who obtains the ciphertext does not need to decrypt it, and can perform c
 
 CONET network data packets do not contain any metadata and are encrypted using the "public key" of the receiving party.
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **CONET nodes**
 
@@ -56,7 +56,7 @@ CONET nodes are the key facilities that make up the CONET wallet routing network
 
 **Routing**
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Traffic confusion**
 

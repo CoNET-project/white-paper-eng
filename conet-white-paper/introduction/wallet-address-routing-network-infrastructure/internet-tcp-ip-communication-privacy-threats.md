@@ -10,7 +10,7 @@ description: >-
 
 The TCP/IP package of the Internet communication protocol consists of header metadata including the Source address, destination IP address, and content (data) Due to the widespread use of SSL encrypted communication recommended by [W3C](https://www.w3.org/2001/tag/doc/web-https), the threat of content (data) privacy leakage is greatly reduced.
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The header metadata transmitted in clear text contains the IP addresses of both communicating parties. Through IP address allocation, IANA can obtain a huge amount of information, including geographical location information of countries and regions, IP address owner information, and even the identity ID of the current tenant.
 

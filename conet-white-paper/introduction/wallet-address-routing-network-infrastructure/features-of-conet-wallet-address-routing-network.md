@@ -18,7 +18,7 @@ CONET assumes that all participants have the motivation to peek at the communica
 
 **The wallet address routing network is the "server" and all users are clients**
 
-CONET users, whether they are clients or servers, are all clients relative to the CONET wallet address network. The client sends a request, and the OCNET wallet address network responds to the client's request. This structure gives CONET users (including clients and servers) the greatest initiative and flexibility.
+CONET users, whether they are clients or servers, are all clients relative to the CONET wallet address network. The client sends a request, and the CONET wallet address network responds to the client's request. This structure gives CONET users (including clients and servers) the greatest initiative and flexibility.
 
 **Naturally anonymous wallet address**
 

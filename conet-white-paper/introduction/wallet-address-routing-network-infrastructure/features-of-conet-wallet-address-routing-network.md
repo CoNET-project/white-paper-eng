@@ -4,7 +4,7 @@ description: A new Internet with enhanced privacy at the raw layer
 
 # Features of CONET wallet address routing network
 
-Today, the Internet is forced to enter Web3 because the Big-Tech that made a lot of money in Web2 no longer put the interests of users first as their principle. They share customer privacy, deliver ads accurately, review and delete creative content stored by users, and end users' social lives at will.
+Today, the Internet is forced to enter Web3 because the Big-Tech that made a lot of money in Web2 no longer put the interests of users first as their principle. They share customer privacy, deliver ads accurately, review and delete creative content stored by users, and ends users' social live at will.
 
 The concept of online privacy protection has been discussed and implemented for more than 20 years, but not only has it not been improved, but with the development of big data, AI and censorship technology, it is facing even greater setbacks.
 

@@ -58,6 +58,6 @@ CONET nodes are the key facilities that make up the CONET wallet routing network
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Traffic confusion**
+**Traffic Obfuscation Technology**
 
 CONET is a virtual network established using the W3C HTTP protocol at the application layer of  OSI. The CONET communication itself has no characteristics, which is a characteristic of the CONET network.

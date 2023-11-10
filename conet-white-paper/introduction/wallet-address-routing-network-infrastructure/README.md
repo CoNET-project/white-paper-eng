@@ -4,7 +4,7 @@ description: Internet Layer Privacy Solutions
 
 # Wallet address routing network infrastructure
 
-The Internet is composed of hardware infrastructure and software infrastructure. The hardware infrastructure consists of client computers, wireless routers, and [important Internet infrastructure](https://en.wikipedia.org/wiki/Critical\_Internet\_infrastructure) (wireless routers, ISP access hubs, fiber optic cables, switches, satellites and submarine cables of the backbone network, etc.). Software infrastructure consists of [communication protocols](https://en.wikipedia.org/wiki/Internet\_Protocol), [domain name systems](https://en.wikipedia.org/wiki/Domain\_Name\_System), login systems, [data centers](https://en.wikipedia.org/wiki/Data\_center), etc.
+The Internet is composed of hardware infrastructure and software infrastructure. The hardware infrastructure consists of client computers, routers, and [critical Internet infrastructure](https://en.wikipedia.org/wiki/Critical\_Internet\_infrastructure) (routers, ISP access hubs, fiber optic cables, switches, satellites and submarine cables of the backbone network, etc.). Software infrastructure consists of [communication protocols](https://en.wikipedia.org/wiki/Internet\_Protocol), [domain name systems](https://en.wikipedia.org/wiki/Domain\_Name\_System), login systems, [data centers](https://en.wikipedia.org/wiki/Data\_center), etc.
 
 [**OSI model**](https://en.wikipedia.org/wiki/OSI\_model)
 

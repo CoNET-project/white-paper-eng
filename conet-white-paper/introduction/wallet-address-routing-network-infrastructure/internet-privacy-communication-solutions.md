@@ -1,5 +1,5 @@
 ---
-description: The Cat and mouse game
+description: The Cat and Mouse Game
 ---
 
 # Internet Privacy Communication Solutions
@@ -8,9 +8,9 @@ Almost all existing privacy enhancement tools are based on replacing the sender 
 
 **Virtual Private Network(**[**VPN**](https://en.wikipedia.org/wiki/Virtual\_private\_network)**)**
 
-Sender first accesses to VPN provider, then replace the source IP address to VPN provider's IP address, then start to visit the destination host IP address.&#x20;
+Sender first accesses the VPN provider, then replaces their source IP address with the VPN provider's IP address, and then visit the destination host IP address.&#x20;
 
-Advantages: Seamless integration with all Internet applications.The sender hides the readl destination IP address, monitors can not knowing who the sender is communicating with and what application sender is using. Internet service providers also can not get true location of the sender. A VPN only anonymizes the sender, not the Internet service provider host.&#x20;
+Advantages: Seamless integration with all Internet applications.The sender hides the real destination IP address, monitors can not knowing who the sender is communicating with and what application sender is using. Internet service providers also can not get true location of the sender. A VPN only anonymizes the sender, not the Internet service provider host.&#x20;
 
 Disadvantages: Users cannot remain anonymous with VPN provider, also network access footprints can be recorded by the VPN provider, and VPN-specific communication protocols (fingerprint) can be intercepted by network surveillance (for example, [the Great Firewall of China ](https://en.wikipedia.org/wiki/Great\_Firewall)blocks VPN protocols).
 

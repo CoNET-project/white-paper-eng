@@ -17,6 +17,8 @@
       * [Merkel tree](conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/merkel-tree.md)
       * [Burning Credentials Generates](conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/burning-credentials-generates.md)
       * [Minting operation UTXO](conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/minting-operation-utxo.md)
+      * [Encryption and ZK verification of credentials](conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/encryption-and-zk-verification-of-credentials.md)
+      * [User Case](conet-white-paper/introduction/burnable-and-mintable-ethereum-pos-network/user-case.md)
 * [CONET白皮書](conet-bai-pi-shu/README.md)
   * [介紹](conet-bai-pi-shu/jie-shao/README.md)
     * [錢包地址路由網絡基礎設施](conet-bai-pi-shu/jie-shao/qian-bao-di-zhi-lu-you-wang-luo-ji-chu-she-shi/README.md)

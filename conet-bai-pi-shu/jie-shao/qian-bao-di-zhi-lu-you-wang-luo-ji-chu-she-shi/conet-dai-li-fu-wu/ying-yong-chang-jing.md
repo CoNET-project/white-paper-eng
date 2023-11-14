@@ -4,7 +4,7 @@
 
 <figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-[**代理服務**](broken-reference)
+[**代理服務**](https://doc.conet.network/conet-bai-pi-shu/jie-shao/qian-bao-di-zhi-lu-you-wang-lao-ji-chu-she-shi/conet-dai-li-fu-wu)
 
 使用者通過錢包地址訪問IP地址互聯網資源。
 

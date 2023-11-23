@@ -10,7 +10,7 @@ description: インターネット層のプライバシー ソリューション
 
 [OSI参照モデル](https://ja.wikipedia.org/wiki/OSI%E5%8F%82%E7%85%A7%E3%83%A2%E3%83%87%E3%83%AB)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 通信システムのデータフローは、分散アプリケーション ータの最上位レベルの表現から、通信メディアを介したデータ送信の物理的な実装まで、7 つの層に分割されます。 物理層には、すべての重要なハードウェア インフラを指します。 データリンク層以降はすべてソフトウェアスコープであり、各中間層はその上の層に機能を提供し、その下の層が独自の機能を提供します。機能カテゴリは、標準の通信プロトコルを通じてソフトウェアに実装されます。
 

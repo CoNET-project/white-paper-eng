@@ -6,7 +6,7 @@ description: コンピュータはIPアドレスを一意に識別して通信�
 
 [TCP/IPプロトコル](https://ja.wikipedia.org/wiki/Internet\_Protocol)は宛先でのデータのカプセル化、アドレス指定、送信、ルーティング、受信の方法を標準化するポイントツーポイント接続メカニズムを提供します。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**IPアドレス**](https://ja.wikipedia.org/wiki/IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9)
 

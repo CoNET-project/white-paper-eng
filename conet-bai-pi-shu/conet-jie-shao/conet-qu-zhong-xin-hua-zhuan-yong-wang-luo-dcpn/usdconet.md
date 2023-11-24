@@ -12,4 +12,4 @@ $CONET ERC20將在CONET項目的發展過程中發揮以下關鍵功能：
 
 **代幣分配**
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

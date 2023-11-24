@@ -26,7 +26,7 @@
       * [CONET Power Card](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-power-card.md)
       * [CONET Layer Minus隱私威脅](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-layer-minus-yin-si-wei-xie.md)
       * [$CONET](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/usdconet.md)
-      * [共識機制](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/gong-shi-ji-zhi.md)
+      * [CONET共識協議](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-gong-shi-xie-yi.md)
       * [激勵機制](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/ji-li-ji-zhi.md)
       * [CONET路線圖](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-lu-xian-tu.md)
     * [CONET應用場景](conet-bai-pi-shu/conet-jie-shao/conet-ying-yong-chang-jing/README.md)

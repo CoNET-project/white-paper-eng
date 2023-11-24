@@ -39,13 +39,13 @@ Anyone who obtains the ciphertext does not need to decrypt it, and can perform c
 
 **Layer Minus Packet**
 
-CONET network data packets do not contain any metadata and are encrypted using the "public key" of the receiving party.
+Layer Minus data packets do not contain any metadata and are encrypted using the "public key" of the receiving party.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Layer Minus  nodes**
 
-CONET nodes are the key facilities that make up the CONET wallet routing network. They perform the following tasks
+Layer Minus nodes are the key facilities that make up the Layer Minus wallet routing network. They perform the following tasks:
 
 * **Data Relay node**: When a node obtains encrypted data that is not its own agent, node will forward it to the right node that is the agent for the delivery address. Obtain the corresponding traffic fee from the delivery node.
 * **Agent receiving node:** Accept the customer's entrustment to receive the encrypted message of the customer's wallet address, and forward the encrypted message to the customer when the entrusted customer is online. Collect usage fees from customers in advance, pay for the data forwarding bandwidth fees forwarded by other nodes on behalf of customers, and deduct them from the prepayment.

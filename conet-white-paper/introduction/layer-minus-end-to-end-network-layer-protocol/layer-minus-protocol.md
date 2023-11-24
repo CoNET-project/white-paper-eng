@@ -21,7 +21,7 @@ Asymmetric encryption allows users to have a pair of keys: a public key and a pr
 
 **Wallet Address**
 
-The wallet address is calculated based on the asymmetric encryption "public key" through specific HASH calculation and encoding. Before using the CONET network, users need to create a pair of "public/private key" to distinguish their location on CONET.
+The wallet address is calculated based on the asymmetric encryption "public key" through specific HASH calculation and encoding. Before using the Layer Minus network, users need to create a pair of "public/private key" to distinguish their location on Layer Minus.
 
 Wallet addresses are unlimited resources, created cryptographically by customers on demand, and there is no centralized distribution mechanism.&#x20;
 
@@ -31,19 +31,19 @@ In a[ public key encryption system](https://cacr.uwaterloo.ca/hac/about/chap8.pd
 
 [**Digital signature**](https://en.wikipedia.org/wiki/Digital\_signature)
 
-The sender can use the private key and the message to create a signature. Anyone with the corresponding public key can verify whether the signature matches the message, but a forger who does not know the private key cannot pretend to be the owner of the private key to sign the message. The signature is non-repudiation and played a key role in CONET P2P protocol.
+The sender can use the private key and the message to create a signature. Anyone with the corresponding public key can verify whether the signature matches the message, but a forger who does not know the private key cannot pretend to be the owner of the private key to sign the message. The signature is non-repudiation and played a key role in Layer Minus P2P protocol.
 
 **Leakage of ciphertext side channel information**
 
 Anyone who obtains the ciphertext does not need to decrypt it, and can perform cryptographic calculations on the ciphertext to obtain the public key ID used to encrypt the ciphertext.
 
-**CONET packet**
+**Layer Minus Packet**
 
 CONET network data packets do not contain any metadata and are encrypted using the "public key" of the receiving party.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-**CONET nodes**
+**Layer Minus  nodes**
 
 CONET nodes are the key facilities that make up the CONET wallet routing network. They perform the following tasks
 

@@ -10,7 +10,7 @@
 
 **DePIN飛輪**
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * **項目立項調查研究**-完成
 * **項目啟動資金**-完成

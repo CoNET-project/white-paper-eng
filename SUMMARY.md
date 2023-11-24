@@ -6,7 +6,7 @@
       * [TCP/IP Protocol](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/tcp-ip-protocol.md)
       * [Internet TCP/IP Communication Privacy Threats](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/internet-tcp-ip-communication-privacy-threats.md)
       * [Internet Privacy Communication Solutions](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/internet-privacy-communication-solutions.md)
-      * [CONET peer-to-peer wallet address communication protocol](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/conet-peer-to-peer-wallet-address-communication-protocol.md)
+      * [Layer Minus  Protocol](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/layer-minus-protocol.md)
       * [Blockchain incentive mechanism](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/blockchain-incentive-mechanism.md)
       * [Features of CONET wallet address routing network](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/features-of-conet-wallet-address-routing-network.md)
       * [User Case](conet-white-paper/introduction/layer-minus-end-to-end-network-layer-protocol/user-case.md)

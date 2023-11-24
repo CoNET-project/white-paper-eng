@@ -1,10 +1,8 @@
 ---
-description: >-
-  The wallet address is an unlimited resource created on demand and is the
-  unique identifier for communication
+description: A wallet address Peer-to-Peer network
 ---
 
-# CONET peer-to-peer wallet address communication protocol
+# Layer Minus  Protocol
 
 The CONET wallet address protocol establishes a point-to-point communication mechanism, define how data should be encapsulated, addressed, transmitted, routed, and received at the destination.
 

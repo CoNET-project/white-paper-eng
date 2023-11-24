@@ -28,6 +28,7 @@
       * [$CONET](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/usdconet.md)
       * [共識機制](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/gong-shi-ji-zhi.md)
       * [激勵機制](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/ji-li-ji-zhi.md)
+      * [CONET路線圖](conet-bai-pi-shu/conet-jie-shao/conet-qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-lu-xian-tu.md)
     * [CONET應用場景](conet-bai-pi-shu/conet-jie-shao/conet-ying-yong-chang-jing/README.md)
       * [CONET代理服務](conet-bai-pi-shu/conet-jie-shao/conet-ying-yong-chang-jing/conet-dai-li-fu-wu.md)
 * [CONET ホワイトペーパー](conet-howaitopp/README.md)

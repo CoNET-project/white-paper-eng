@@ -4,7 +4,7 @@ description: A wallet address Peer-to-Peer network
 
 # Layer Minus  Protocol
 
-The Layer Minus is wallet address protocol establishes a point-to-point communication mechanism, define how data should be encapsulated, addressed, transmitted, routed, and received at the destination.
+The Layer Minus Protocol is a network protocol that establishes a point-to-point communication used as a wallet address mechanism rather than an IP address, defining how data should be encapsulated, addressed, transmitted, routed, and received at the destination.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 

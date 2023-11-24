@@ -25,7 +25,7 @@ The wallet address is calculated based on the asymmetric encryption "public key"
 
 Wallet addresses are unlimited resources, created cryptographically by customers on demand, and there is no centralized distribution mechanism.&#x20;
 
-[**Ecrypted with public key**](https://en.wikipedia.org/wiki/Encryption)
+[**Encrypted with public key**](https://en.wikipedia.org/wiki/Encryption)
 
 In a[ public key encryption system](https://cacr.uwaterloo.ca/hac/about/chap8.pdf), anyone with a public key can encrypt a message and generate ciphertext, but only someone who knows the corresponding private key can decrypt the ciphertext to obtain the original message.
 

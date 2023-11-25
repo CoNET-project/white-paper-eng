@@ -4,7 +4,7 @@ description: 無限資源按需創建的通訊唯一標識符：錢包地址
 
 # Layer Minus通訊協議
 
-Layer Minus協議，建立了點對點通訊機制，將資料應該如何封裝、定址、傳輸、路由以及在目的地如何接收。
+Layer Minus協議，建立了以錢包地址，作為設備區分彼此的唯一標識，進行點對點通訊的網絡協議，將數據應該如何封裝、定址、傳輸、路由以及在目的地如何接收。
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

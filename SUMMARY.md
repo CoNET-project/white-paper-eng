@@ -3,7 +3,7 @@
 * [歡迎來到CONET](README.md)
   * [CONET介紹](huan-ying-lai-dao-conet/conet-jie-shao.md)
   * [CONET項目背景](huan-ying-lai-dao-conet/conet-xiang-mu-bei-jing/README.md)
-    * [Page](huan-ying-lai-dao-conet/conet-xiang-mu-bei-jing/page.md)
+    * [去中心化實體基礎設施網路DePIN](huan-ying-lai-dao-conet/conet-xiang-mu-bei-jing/qu-zhong-xin-hua-shi-ti-ji-chu-she-shi-wang-lu-depin.md)
     * [個人資訊](huan-ying-lai-dao-conet/conet-xiang-mu-bei-jing/ge-ren-zi-xun-de-lei-xing.md)
       * [個人資訊的收集與定位](huan-ying-lai-dao-conet/conet-xiang-mu-bei-jing/ge-ren-zi-xun-de-shou-ji-yu-ding-wei.md)
       * [私營部門分析個人資訊](huan-ying-lai-dao-conet/conet-xiang-mu-bei-jing/si-ying-bu-men-fen-xi-ge-ren-zi-xun.md)

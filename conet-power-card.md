@@ -4,7 +4,7 @@ description: 隨身智能隱私保險櫃
 
 # CONET Power Card
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 CONET提供信用卡尺寸，只有6張信用卡厚度的超薄，可放入錢包的個人WiFi隨身智能硬件設備，在其网络覆盖半径内，使用者不仅可以无缝进行网络传输，还提供强大的隐私保护。它還可以作為CONET入網設設備提供商，賺取額外收益。
 
@@ -16,7 +16,7 @@ CONET提供信用卡尺寸，只有6張信用卡厚度的超薄，可放入錢�
 * **可選存儲容量：**512GB/1TB
 * **電池：**最長工作時間達24小時，一週待機
 * **充電：**無線充電。兼容任意無線充電器
-* **CONET代理：**原生支持[CONET代理服務](../conet-ying-yong-chang-jing/conet-dai-li-fu-wu.md)，獲得隱私自由的上網
+* **CONET代理：**原生支持[CONET代理服務](web2-qiao-jie.md)，獲得隱私自由的上網
 * **隱私存儲協議：**支持CONET獨特碎片化加密
 * **密碼保護協議：**使用抗暴力破解Scrypt衍生協議，由客戶端簡單密碼，產生256位高強度密碼保護
 * **硬件錢包技術：**碎片化加密後分佈存儲的私鑰，攻擊者就算攻入CONET硬件設備，都無法找到私鑰

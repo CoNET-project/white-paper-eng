@@ -1,5 +1,5 @@
 ---
-description: 無限資源按需創建的通訊唯一標識符：錢包地址
+description: 次世代新互聯網通訊協議
 ---
 
 # Layer Minus通訊協議

@@ -22,4 +22,4 @@ CONET是公平發行的代幣，沒有預售或VC持有。&#x20;
 
 **代幣分配**
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>

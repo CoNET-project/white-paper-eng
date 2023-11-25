@@ -10,7 +10,7 @@ description: 通訊三大要素，發件人地址，收信人地址，內容
 
 由於當前普遍採用[W3C](https://www.w3.org/2001/tag/doc/web-https)推薦的SSL加密通訊，內容(Data)隱私洩漏威脅大大減少。
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 但以明文傳輸的包含通訊雙方IP地址的報頭元數據，通過IP地址分配IANA可以獲得巨量的信息，包括國家地區的地理位置信息，IP地址擁有者信息，甚至當前租用者的身份ID。
 

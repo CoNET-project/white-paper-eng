@@ -1,4 +1,4 @@
-# CONET是去中心化物理基礎設施網絡
+# 去中心化物理基礎設施網絡
 
 **CONET基礎設施有以下關鍵角色組成**
 
@@ -10,7 +10,7 @@
 
 **DePIN飛輪**
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 * **項目立項調查研究**-完成
 * **項目啟動資金**-完成

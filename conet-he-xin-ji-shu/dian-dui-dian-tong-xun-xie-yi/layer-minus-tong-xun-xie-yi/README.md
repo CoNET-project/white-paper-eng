@@ -6,7 +6,7 @@ description: 為次世代應運而生的新互聯網通訊協議
 
 Layer Minus協議，建立了以錢包地址，作為設備區分彼此的唯一標識，進行點對點通訊的網絡協議，將數據應該如何封裝、定址、傳輸、路由以及在目的地如何接收。
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **非對稱加密學**
 
@@ -41,7 +41,7 @@ Layer Minus協議，建立了以錢包地址，作為設備區分彼此的唯一
 
 Layer Minus網絡數據包，不包含任何元數據，使用接受信息方的「公鑰」進行加密後的數據包。
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Layer Minus節點**
 
@@ -54,7 +54,7 @@ Layer Minus網絡數據包，不包含任何元數據，使用接受信息方的
 
 **路由**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **流量混淆**
 

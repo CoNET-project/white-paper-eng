@@ -27,7 +27,7 @@
     * [互聯網TCP/IP通訊隱私威脅](conet-he-xin-ji-shu/xian-you-hu-lian-wang-tong-xun-xie-yi/hu-lian-wang-tcpip-tong-xun-yin-si-wei-xie.md)
     * [互聯網隱私通訊解決方案](conet-he-xin-ji-shu/xian-you-hu-lian-wang-tong-xun-xie-yi/hu-lian-wang-yin-si-tong-xun-jie-jue-fang-an.md)
   * [Layer Minus通訊協議](conet-he-xin-ji-shu/layer-minus-tong-xun-xie-yi/README.md)
-    * [CONET Layer Minus隱私威脅](conet-he-xin-ji-shu/layer-minus-tong-xun-xie-yi/conet-layer-minus-yin-si-wei-xie.md)
+    * [Layer Minus協議的隱私威脅](conet-he-xin-ji-shu/layer-minus-tong-xun-xie-yi/layer-minus-xie-yi-de-yin-si-wei-xie.md)
   * [去中心化專用網絡DCPN](conet-he-xin-ji-shu/qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/README.md)
     * [去中心化物理基礎設施網絡](conet-he-xin-ji-shu/qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/qu-zhong-xin-hua-wu-li-ji-chu-she-shi-wang-luo.md)
     * [CONET網絡特點](conet-he-xin-ji-shu/qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-wang-luo-te-dian.md)

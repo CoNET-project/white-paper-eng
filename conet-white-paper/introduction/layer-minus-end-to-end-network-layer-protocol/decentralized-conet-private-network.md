@@ -1,8 +1,8 @@
 ---
-description: A new Internet with enhanced privacy at the raw layer
+description: The new Internet using Layer Minus protocol
 ---
 
-# Features of CONET wallet address routing network
+# Decentralized CONET Private Network
 
 Today, the Internet is forced to enter Web3 because the Big-Tech that made a lot of money in Web2 no longer put the interests of users first as their principle. They share customer privacy, deliver ads accurately, review and delete creative content stored by users, and ends users' social live at will.
 

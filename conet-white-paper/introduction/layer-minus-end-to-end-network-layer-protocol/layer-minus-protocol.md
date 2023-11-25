@@ -56,6 +56,8 @@ Layer Minus nodes are the key facilities that make up the Layer Minus wallet rou
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
+Routing is the process of selecting a path for traffic in a network or between or across multiple networks. In the Layer Minus network, each relay node represents one or a group of proxy wallet addresses. They are registered in the smart contract and are accessible to everyone. Therefore, the path discovery (routing) of Layer Minus is Direct and Efficient.
+
 **Traffic Obfuscation Technology**
 
-CONET is a virtual network established using the W3C HTTP protocol at the application layer of  OSI. The CONET communication itself has no characteristics, which is a characteristic of the CONET network.
+Layer Minus is a virtual network established using the W3C HTTP protocol at the application layer of  OSI. The Layer Minus communication itself has no characteristics, which is a characteristic of the Layer Minus network.

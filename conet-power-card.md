@@ -1,5 +1,5 @@
 ---
-description: 智能隨身隱私設備
+description: 便攜智能隨身硬件
 ---
 
 # CONET Power Card

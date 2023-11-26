@@ -1,5 +1,5 @@
 ---
-description: 使用Layer Minus通訊協議的新互聯網
+description: 基於Layer Minus通訊協議的新互聯網
 ---
 
 # 去中心化專用網絡DCPN

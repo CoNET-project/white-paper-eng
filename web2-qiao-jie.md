@@ -2,7 +2,7 @@
 description: 挑戰數據傳輸的技術極限
 ---
 
-# Web2橋接代理APP
+# Web2橋接
 
 **介紹**
 
@@ -10,7 +10,7 @@ CONET橋接代理是基於去中心化零信任，隱私優先CONET錢包地址�
 
 代理服務是互聯網常用的應用之一，它可以幫助客戶隱藏真實IP地址，由代理服務器代為訪問互聯網網站，以獲得隱私的一種方式，很多應用原生支持使用代理服務器，如火狐瀏覽器，Telegram，遊戲應用等。傳統的代理服務器在遠程，客戶通過網路去訪問代理。
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 **代理服務器結構**
 
@@ -29,7 +29,7 @@ CONET把傳統代理服務器拆分成二個部分。
 
 **碎片化流量**
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 客戶端打開Google主頁可以看到整個主頁由42個不同類型的文件組成，CONET代理服務器可以把這42個不同的請求，使用CONET網內不同的節點，同時代理客戶去Google請求。
 

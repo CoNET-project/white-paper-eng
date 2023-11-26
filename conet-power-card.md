@@ -1,5 +1,5 @@
 ---
-description: 便攜智能隨身硬件
+description: 便攜式智能硬件
 ---
 
 # CONET Power Card

@@ -2,26 +2,28 @@
 
 **Layer Minus通訊協議技術白皮書**
 
-{% file src=".gitbook/assets/CONET Project v4.pdf" %}
+[**https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfLHJpYiA9wtrWNSwtiFS%2Fuploads%2FnmxXealgrkDgPma8A5AE%2FCONET%20Project%20v4.pdf?alt=media\&token=686dbe6b-9fe8-4b0b-93af-beb76f7bbabf**](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfLHJpYiA9wtrWNSwtiFS%2Fuploads%2FnmxXealgrkDgPma8A5AE%2FCONET%20Project%20v4.pdf?alt=media\&token=686dbe6b-9fe8-4b0b-93af-beb76f7bbabf)
 
-**社區建設**
+**CONET Testnet Explorer**
 
-**開源的CONET代碼庫**
+[**https://scan.conet.network/**](https://scan.conet.network/)
 
-{% embed url="https://github.com/orgs/CoNET-project/" %}
+**CONET代碼庫**
+
+[**https://github.com/CoNET-project**](https://github.com/CoNET-project)
 
 **Medium**
 
-{% embed url="https://medium.com/@conet" %}
+[**https://conet.medium.com/**](https://conet.medium.com/)
 
 **官方推特帳號**
 
-{% embed url="https://twitter.com/CoNET_Network" %}
+[**https://twitter.com/CoNET\_Network**](https://twitter.com/CoNET\_Network)
 
 **Discord**
 
-{% embed url="https://discord.gg/Xff4V8u5" %}
+[**https://discord.com/invite/Xff4V8u5**](https://discord.com/invite/Xff4V8u5)
 
 **️Telegram**
 
-{% embed url="https://t.me/CONETPROJECT" %}
+[**https://t.me/CONETPROJECT**](https://t.me/CONETPROJECT)

@@ -18,7 +18,7 @@
 
 **項目簡介單頁**
 
-
+[https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/conet-v15.pdf](.gitbook/assets/conet-v15.pdf)
 
 **Medium**
 

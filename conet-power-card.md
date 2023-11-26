@@ -1,5 +1,5 @@
 ---
-description: 隨身智能隱私保險櫃
+description: 智能隨身隱私設備
 ---
 
 # CONET Power Card

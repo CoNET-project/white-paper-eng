@@ -1,4 +1,4 @@
-# CONET資源
+# 資源
 
 **Layer Minus通訊協議技術白皮書**
 
@@ -18,7 +18,7 @@
 
 **項目簡介單頁**
 
-[https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/conet-v15.pdf](.gitbook/assets/conet-v15.pdf)
+
 
 **TRON 第五屆 2023 黑客松大赛參賽POST**
 

@@ -40,4 +40,4 @@
   * [激勵機制](dai-bi-jing-ji-mo-xing/ji-li-ji-zhi.md)
 * [CONET Power Card](conet-power-card.md)
 * [路線圖](lu-xian-tu.md)
-* [資源](conet-zi-yuan.md)
+* [資源](zi-yuan.md)

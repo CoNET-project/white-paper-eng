@@ -18,7 +18,7 @@
 
 **項目簡介單頁**
 
-[https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/conet-v16.pdf](.gitbook/assets/conet-v16.pdf)
+[https://github.com/CoNET-project/white-paper-eng/blob/main/.gitbook/assets/conet-v18.pdf](.gitbook/assets/conet-v18.pdf)
 
 **TRON 第五屆 2023 黑客松大赛參賽POST**
 

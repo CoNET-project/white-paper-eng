@@ -16,6 +16,10 @@
 
 [https://github.com/CoNET-project](https://github.com/CoNET-project)
 
+**CONET平台API技術文檔**
+
+[https://doc-api.conet.network/](https://doc-api.conet.network/)
+
 **項目簡介單頁**
 
 [https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfLHJpYiA9wtrWNSwtiFS%2Fuploads%2Fd2MsOVVjnrNoUwVESPUU%2Fconet-v19-2.pdf?alt=media\&token=edb0d84c-0023-48cc-994d-916e1bd3beb4](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FfLHJpYiA9wtrWNSwtiFS%2Fuploads%2Fd2MsOVVjnrNoUwVESPUU%2Fconet-v19-2.pdf?alt=media\&token=edb0d84c-0023-48cc-994d-916e1bd3beb4)

@@ -4,4 +4,6 @@ CONET的用戶參與者和開發者，通過CONET平台，可以簡單訪問使�
 
 CONET平台包含以下關鍵基礎設施
 
-**CONET錢包**
+[**CONET錢包**](https://doc.conet.network/he-xin-ji-shu/conet-ping-tai/conet-qian-bao)
+
+[**CONET API**](https://doc-api.conet.network/readme/class-platform)

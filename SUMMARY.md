@@ -33,6 +33,8 @@
   * [去中心化專用網絡DCPN](he-xin-ji-shu/qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/README.md)
     * [去中心化物理基礎設施網絡](he-xin-ji-shu/qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/qu-zhong-xin-hua-wu-li-ji-chu-she-shi-wang-luo.md)
     * [CONET網絡特點](he-xin-ji-shu/qu-zhong-xin-hua-zhuan-yong-wang-luo-dcpn/conet-wang-luo-te-dian.md)
+  * [CONET平台](he-xin-ji-shu/conet-ping-tai/README.md)
+    * [CONET錢包](he-xin-ji-shu/conet-ping-tai/conet-qian-bao.md)
 * [應用場景](ying-yong-chang-jing.md)
 * [Web2橋接](web2-qiao-jie.md)
 * [代幣經濟模型](dai-bi-jing-ji-mo-xing/README.md)

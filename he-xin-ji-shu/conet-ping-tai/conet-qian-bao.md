@@ -30,6 +30,8 @@ const mainFragmentName = ethers.id( ethers.id( ethers.id(currentVer)))
 
 物理冷錢包，只要拿到它（物理冷錢包有成千上萬的安全漏洞可以偷到它），則等於完成了CONET的大海撈針，也完成了拼湊成一個完整拼圖的工作，所以CONET比物理冷錢包，有著更嚴密的安全性不言而喻。
 
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+
 **受抗暴力破解** [**Scrypt密碼學算法**](https://www.jiamisoft.com/blog/36072-scryptsf.html) **保護的CONET平台本地解鎖**
 
 打開CONET平台，用戶需輸入易記憶的6位簡單密碼，CONET平台通過Scrypt算法，隨機產生一個，可以對抗超級計算機暴力破解的強密碼，來保護本地存儲的已經碎片化的敏感信息

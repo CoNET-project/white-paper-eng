@@ -8,7 +8,7 @@
 
 [https://conet.network/](https://conet.network/)
 
-**CONET Testnet Explorer**
+**CONET Holesky Explorer**
 
 [https://scan.conet.network/](https://scan.conet.network/)
 
@@ -17,6 +17,14 @@
 [https://github.com/CoNET-project](https://github.com/CoNET-project)
 
 [https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/](https://bitbucket.org/matheus\_moraes\_pinheiro/conet/src/main/)
+
+**CONET平台API服務器**
+
+[https://api.conet.network](https://api.conet.network)
+
+**CONET Holasky RPC 節點**
+
+[https://rpc.conet.network](https://rpc.conet.network)
 
 **CONET平台API技術文檔**
 
@@ -38,10 +46,6 @@
 
 [https://twitter.com/CoNET\_Network](https://twitter.com/CoNET\_Network)
 
-**Discord**
-
-[https://discord.com/invite/Xff4V8u5](https://discord.com/invite/Xff4V8u5)
-
 **️Telegram**
 
-[https://t.me/CONETPROJECT](https://t.me/CONETPROJECT)
+[https://t.me/conet\_network](https://t.me/conet\_network)
